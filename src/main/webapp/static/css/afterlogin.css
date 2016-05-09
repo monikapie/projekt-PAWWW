@@ -1,0 +1,35 @@
+#wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+
+#wrapper table{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#journey{
+    color: #78F59F;
+}
+
+#couchsurfer{
+    color: #4DFA83;
+}
+
+#transport{
+    color: #78F59F;
+}
+
+#expense{
+    color: #4DFA83;
+}
+
+#member{
+    color: #78F59F;
+}
+
+#footer {
+    position:fixed;
+    text-align: center;
+    bottom:0;
+}
